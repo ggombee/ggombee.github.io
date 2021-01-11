@@ -1,2 +1,2 @@
-# eunbko.github.io
-개발자 고은비
+# 개발자 고은비
+＊ About
